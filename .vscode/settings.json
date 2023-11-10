@@ -11,5 +11,6 @@
   "prettier.endOfLine": "auto", // cross-platform
 
   // Language-Specific
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "githubPullRequests.ignoredPullRequestBranches": ["main"]
 }
